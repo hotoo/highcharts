@@ -1,5 +1,5 @@
 {
-  "name": "highcharts",
+  "name": "highcharts-fork",
   "version": "4.0.4",
   "description": "Highcharts JS, the JavaScript charting framework",
   "keywords": ["data", "chart", "pie", "line", "svg", "canvas"],
