@@ -6,14 +6,11 @@
   "homepage": "http://www.highcharts.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/spmjs/highcharts.git"
+    "url": "https://github.com/hotoo/highcharts"
   },
-  "licenses": "MIT",
-  "spm": {
-    "main": "highcharts.js",
-    "dependencies": {
-      "jquery": "1.11.1"
-    },
-    "buildArgs": "--ignore jquery"
+  "licenses": "https://www.highcharts.com/license",
+  "main": "highcharts.js",
+  "dependencies": {
+    "jquery": "1.11.1"
   }
 }
